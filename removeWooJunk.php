@@ -5,7 +5,7 @@ Plugin URI: http://www.clarencemiddleton.com
 Description: Basic Woocommerce Optimizations for wordPress
 Author: Clarence Middleton
 Version: 1.01
-Author URI: http://www.clarencemiddleton
+Author URI: http://www.clarencemiddleton.com
 Compatibility: WordPress 4.5
 Text Domain: middleton-function
 Domain Path: /lang
