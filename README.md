@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CMiddleton3
+- 👋 Hi, I’m Clarence Middleton
 - 👀 I’m interested in JAVA, C, PHP, and Assembly
 - 🌱 I’m currently learning Advance JAVA and Andriod Development
 - 💞️ I’m looking to collaborate on any and all projects
