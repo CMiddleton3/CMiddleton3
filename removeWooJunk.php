@@ -99,7 +99,7 @@ function ism_dns_prefetch() {
 }
 add_action('wp_head', 'ism_dns_prefetch', 0);
 
-// Change Wordpress Login Error
+// Don't show wordpress valid error on failed login.
 function no_wordpress_errors(){
   return 'Error code: 0xc000000f';
   }
