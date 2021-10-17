@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clarence Middleton
 - 👀 I’m interested in JAVA, C, PHP, and Assembly
-- 🌱 I’m currently learning Advance JAVA and Andriod Development
+- 🌱 I’m currently learning Advance Python, and VMware API/SDK
 - 💞️ I’m looking to collaborate on any and all projects
 - 📫 How to reach me ClarenceCM3@gmail.com
 
